@@ -1,2 +1,0 @@
-This file was created by my NodeJS app. This file has way too less content though.
-Fuck You!
