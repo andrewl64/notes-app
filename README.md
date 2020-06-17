@@ -1,2 +1,2 @@
 # notes-app
-A simple NodeJS notes app
+Notes app (title & content) build with NodeJS
